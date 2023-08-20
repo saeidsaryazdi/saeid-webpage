@@ -42,9 +42,6 @@ education:
     - course: M.Sc. in Electrical Engineering 
       institution: Isfahan University of Technology, Isfahan, Iran
       year: 1987
-    - course: B.Sc. in Electrical Engineering 
-      institution: Isfahan University of Technology, Isfahan, Iran
-      year: 1986
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
