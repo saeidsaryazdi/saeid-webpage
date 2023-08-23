@@ -35,7 +35,7 @@ education:
     - Ph.D. in Signal Processing and Telecommunication, Majoring in Image coding 
       institution University Rennes1
       year:1997
-    - D.E.A. in Signal, Telecommunication, Image, Radar (option : signal)
+    - D.E.A. in Signal, Telecommunication, Image, Radar 
       institution University Rennes1
       year:1994
     - M.Sc. in Electrical Engineering 
