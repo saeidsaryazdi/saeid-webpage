@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Saeid Saryazdi
+title: Professor
 
 # Full name (for SEO)
 first_name: Saeid
