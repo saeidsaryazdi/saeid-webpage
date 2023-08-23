@@ -40,7 +40,7 @@ education:
       institution:University Rennes1
       year:1994
     - course: M.Sc. in Electrical Engineering 
-      institution: Isfahan University of Technology, Isfahan, Iran
+      institution: Isfahan University of Technology
       year:1987
 
 # Social/Academic Networking
