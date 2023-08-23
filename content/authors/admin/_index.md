@@ -1,4 +1,4 @@
-# Display name
+# Display name(for SEO)
 title: Professor
 
 # Full name (for SEO)
