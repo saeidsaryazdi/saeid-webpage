@@ -32,11 +32,9 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
     - Ph.D. in Signal Processing and Telecommunication, Majoring in Image coding 
       institution University Rennes1
       year:1997
-   courses:
     - D.E.A. in Signal, Telecommunication, Image, Radar (option : signal)
       institution University Rennes1
       year:1994
