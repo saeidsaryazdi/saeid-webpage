@@ -34,13 +34,13 @@ interests:
 education:
     - Ph.D. in Signal Processing and Telecommunication, Majoring in Image coding 
       institution University Rennes1
-      year: 1997
+      year 1997
     - D.E.A. in Signal, Telecommunication, Image, Radar 
       institution University Rennes1
-      year: 1994
+      year 1994
     - M.Sc. in Electrical Engineering 
       institution Isfahan University of Technology
-      year: 1987
+      year 1987
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
