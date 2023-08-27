@@ -32,15 +32,16 @@ interests:
 
 # Education to show in About widget
 education:
-    - Ph.D. in Signal Processing and Telecommunication, Majoring in Image coding 
-      institution University Rennes1
-      year 1997
-    - D.E.A. in Signal, Telecommunication, Image, Radar 
-      institution University Rennes1
-      year 1994
-    - M.Sc. in Electrical Engineering 
-      institution Isfahan University of Technology
-      year 1987
+  courses:
+    - course: Ph.D. in Signal Processing and Telecommunication, Majoring in Image coding 
+      institution: University Rennes1
+      year: 1997
+    - course: D.E.A. in Signal, Telecommunication, Image, Radar 
+      institution: University Rennes1
+      year: 1994
+    - course: M.Sc. in Electrical Engineering 
+      institution: Isfahan University of Technology
+      year: 1987
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
