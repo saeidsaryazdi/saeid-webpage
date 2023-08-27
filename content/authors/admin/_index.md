@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Professor
+title: 
 
 # Full name (for SEO)
 first_name: Saeid
