@@ -22,13 +22,7 @@ organizations:
     url: https://uk.ac.ir/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I received my Ph.D. in Image Coding from Rennes 1 university, France, in 1997 and immediately started my academic career as an Assistant Professor in Electrical Engineering at the Shahid Bahonar University of Kerman, Iran. I was a visiting professor at the Laboratory for Image, Vision, and Artificial intelligence,  École de technologie supérieure, Montreal, Canada, during 2005-2006 .
-My research interests are in the fields of computer vision, image processing, and pattern recognition.  I am an interdisciplinary and multidisciplinary researcher, publishing refereed journal and conference papers in the diverse fields of image coding, sensing, soft computing, computer vision, image indexing and retrieval, image de-noising, image watermarking & steganography, image in-painting, image encryption, scale space image processing, and mathematical morphology. 
-E-Mail Address :  saryazdi@mail.uk.ac.ir, saryazdi@gmail.com
-https://scholar.google.com/citations?hl=en&user=qEHe5NgAAAAJ
-https://www.webofscience.com/wos/author/record/GQZ-0186-2022
-https://orcid.org/0000-0002-4577-1971
-
+bio: I received my Ph.D. in Image Coding from Rennes 1 university, France, in 1997 and immediately started my academic career as an Assistant Professor in Electrical Engineering at the Shahid Bahonar University of Kerman, Iran. I was a visiting professor at the Laboratory for Image, Vision, and Artificial intelligence,  École de technologie supérieure, Montreal, Canada, during 2005-2006 . My research interests are in the fields of computer vision, image processing, and pattern recognition.  I am an interdisciplinary and multidisciplinary researcher, publishing refereed journal and conference papers in the diverse fields of image coding, sensing, soft computing, computer vision, image indexing and retrieval, image de-noising, image watermarking & steganography, image in-painting, image encryption, scale space image processing, and mathematical morphology. 
 
 # Interests to show in About widget
 interests:
